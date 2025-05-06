@@ -5,36 +5,13 @@
 </p>
 
 #  Microsoft Azure Entra Highlights
-
-→ Regularly reviewed and updated user accounts in the system, improving data accuracy and streamlining user management processes.
-
-
-→ Verified user credentials against company records, enhancing security and ensuring only authorized personnel accessed company resources.
-
-
-→ Implemented a secure password reset process, reducing downtime and improving user satisfaction.
-
-
-→ Evaluated and implemented new authentication protocols, increasing security and compliance with industry standards.
-
-
-→ Provided step-by-step support and troubleshooting, ensuring successful setup and improving user confidence in security measures.
-
-
-→ Added users to security groups based on their roles, facilitating access control and streamlining the onboarding process.
-
-
-→ Regularly checked sign-in logs for suspicious activity, identifying and mitigating potential security threats.
-
-
-→ Configured BitLocker encryption on company devices, enhancing data security and compliance with data protection policies.
-
-
-→ Accessed and managed LAPS passwords securely, improving device management and security.
-
-
-→ Analyzed user behavior and flagged risky activities, proactively addressing security concerns and reducing risk.
-
-➜ Managed identity and access configurations using Microsoft Azure Entra, enforcing conditional access policies and reducing unauthorized access risks.
-
-➜ Used Azure Entra sign-in logs to trace device usage and assist in the recovery of lost or misplaced government-issued laptops.
+➜ Managed identity and access configurations using Microsoft Azure Entra, enforcing conditional access policies and reducing unauthorized access risks.  
+➜ Regularly reviewed and updated user accounts to improve data accuracy and streamline user management processes.  
+➜ Verified user credentials against company records, enhancing security and ensuring only authorized personnel accessed resources.  
+➜ Implemented a secure password reset process to reduce downtime and improve user satisfaction.  
+➜ Evaluated and deployed new authentication protocols to strengthen security and meet industry compliance standards.  
+➜ Provided step-by-step support for user setup and troubleshooting, improving successful authentication and user confidence.  
+➜ Added users to security groups based on role, facilitating access control and improving onboarding efficiency.  
+➜ Monitored Azure Entra sign-in logs to identify suspicious activity and proactively mitigate security threats.  
+➜ Used Azure Entra sign-in logs to trace the last logged-in user and recover lost government-issued laptops.  
+➜ Analyzed user behavior to detect and flag risky activity, reducing exposure to internal threats.
