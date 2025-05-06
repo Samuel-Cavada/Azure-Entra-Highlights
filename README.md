@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Azure-Entra-Highlights
+#  Microsoft Azure Entra Highlights
 
 → Regularly reviewed and updated user accounts in the system, improving data accuracy and streamlining user management processes.
 
@@ -34,3 +34,7 @@
 
 
 → Analyzed user behavior and flagged risky activities, proactively addressing security concerns and reducing risk.
+
+➜ Managed identity and access configurations using Microsoft Azure Entra, enforcing conditional access policies and reducing unauthorized access risks.
+
+➜ Used Azure Entra sign-in logs to trace device usage and assist in the recovery of lost or misplaced government-issued laptops.
