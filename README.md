@@ -4,24 +4,34 @@
   </a>
 </p>
 
-#  Microsoft Azure Entra Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/Azure-Entra-Highlights/main/images/Microsoft%20Azure%20Entra%20Highlights.png" width="600"/>
+</p>
 
-➜ Managed identity and access configurations using Microsoft Azure Entra, enforcing conditional access policies and reducing unauthorized access risks.  
 
-➜ Regularly reviewed and updated user accounts to improve data accuracy and streamline user management processes.  
 
-➜ Verified user credentials against company records, enhancing security and ensuring only authorized personnel accessed resources.  
+> This section highlights hands-on experience managing secure identity systems using Microsoft Azure Entra.
 
-➜ Implemented a secure password reset process to reduce downtime and improve user satisfaction.  
+- Managed identity and access configurations using Microsoft Azure Entra, enforcing conditional access policies and reducing unauthorized access risks.  
 
-➜ Evaluated and deployed new authentication protocols to strengthen security and meet industry compliance standards.  
+- Regularly reviewed and updated user accounts to improve data accuracy and streamline user management processes.  
 
-➜ Provided step-by-step support for user setup and troubleshooting, improving successful authentication and user confidence.  
+- Verified user credentials against company records, enhancing security and ensuring only authorized personnel accessed resources.  
 
-➜ Added users to security groups based on role, facilitating access control and improving onboarding efficiency.  
+- Implemented a secure password reset process to reduce downtime and improve user satisfaction.  
 
-➜ Monitored Azure Entra sign-in logs to identify suspicious activity and proactively mitigate security threats.  
+- Evaluated and deployed new authentication protocols to strengthen security and meet industry compliance standards.  
 
-➜ Used Azure Entra sign-in logs to trace the last logged-in user and recover lost government-issued laptops.  
+- Provided step-by-step support for user setup and troubleshooting, improving successful authentication and user confidence.  
 
-➜ Analyzed user behavior to detect and flag risky activity, reducing exposure to internal threats.
+- Added users to security groups based on role, facilitating access control and improving onboarding efficiency.  
+
+- Monitored Azure Entra sign-in logs to identify suspicious activity and proactively mitigate security threats.  
+
+- Used Azure Entra sign-in logs to trace the last logged-in user and recover lost government-issued laptops.  
+
+- Analyzed user behavior to detect and flag risky activity, reducing exposure to internal threats.
+
+
+
+
